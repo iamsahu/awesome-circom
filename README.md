@@ -23,6 +23,7 @@ A curated list of awesome resources for learning and programming with [Circom](h
 ### Dev Tools
 
 - [zkRepl](https://zkrepl.dev/)
+- [Circomspect](https://github.com/trailofbits/circomspect)
 
 ### Boilerplates
 
@@ -31,12 +32,15 @@ A curated list of awesome resources for learning and programming with [Circom](h
 ### Libraries
 
 - [CircomLib](https://github.com/iden3/circomlib)
+- [Circom-ecdsa](https://github.com/0xPARC/circom-ecdsa)
 - [efficient-zk-ecdsa](https://github.com/personaelabs/efficient-zk-ecdsa)
 
 ## Projects
 
 - [Circom pairing](https://github.com/yi-sun/circom-pairing)
 - [zk-identity](https://github.com/jefflau/zk-identity)
+- [Building roll ups in circom](https://github.com/GuthL/roll_up_circom_tutorial)
+- [Semaphore](https://github.com/semaphore-protocol/semaphore/tree/main/packages/circuits)
 
 ## Talks & Workshops
 
