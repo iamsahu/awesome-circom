@@ -41,6 +41,7 @@ A curated list of awesome resources for learning and programming with [Circom](h
 - [zk-identity](https://github.com/jefflau/zk-identity)
 - [Building roll ups in circom](https://github.com/GuthL/roll_up_circom_tutorial)
 - [Semaphore](https://github.com/semaphore-protocol/semaphore/tree/main/packages/circuits)
+- [ZKHunt](https://github.com/FlynnSC/zk-hunt)
 
 ## Talks & Workshops
 
