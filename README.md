@@ -45,6 +45,8 @@ A curated list of awesome resources for learning and programming with [Circom](h
 - [NightMarket for Darkforest](https://github.com/factorgroup/nightmarket)
 - [DarkForest](https://github.com/darkforest-eth/circuits)
 - [BattleZips](https://battlezips.gitbook.io/battlezips/development/circom-language)
+- [zkRegex](https://github.com/zk-email-verify/zk-regex)
+- [zk Email](https://github.com/zk-email-verify)
 
 ## Talks & Workshops
 
