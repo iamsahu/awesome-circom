@@ -47,6 +47,7 @@ A curated list of awesome resources for learning and programming with [Circom](h
 - [BattleZips](https://battlezips.gitbook.io/battlezips/development/circom-language)
 - [zkRegex](https://github.com/zk-email-verify/zk-regex)
 - [zk Email](https://github.com/zk-email-verify)
+- [zkMaps](https://github.com/zkMaps/zkMaps)
 
 ## Talks & Workshops
 
