@@ -48,6 +48,7 @@ A curated list of awesome resources for learning and programming with [Circom](h
 - [zkRegex](https://github.com/zk-email-verify/zk-regex)
 - [zk Email](https://github.com/zk-email-verify)
 - [zkMaps](https://github.com/zkMaps/zkMaps)
+- [privacy pools](https://github.com/ameensol/privacy-pools)
 
 ## Talks & Workshops
 
