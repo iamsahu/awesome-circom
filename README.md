@@ -49,7 +49,7 @@ A curated list of awesome resources for learning and programming with [Circom](h
 - [zk Email](https://github.com/zk-email-verify)
 - [zkMaps](https://github.com/zkMaps/zkMaps)
 - [privacy pools](https://github.com/ameensol/privacy-pools)
-- [Telepathy (SuccientLabs)](https://github.com/succinctlabs/telepathy-circuits)
+- [Telepathy (SuccinctLabs)](https://github.com/succinctlabs/telepathy-circuits)
 
 ## Talks & Workshops
 
