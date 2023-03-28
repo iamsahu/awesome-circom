@@ -50,6 +50,7 @@ A curated list of awesome resources for learning and programming with [Circom](h
 - [zkMaps](https://github.com/zkMaps/zkMaps)
 - [privacy pools](https://github.com/ameensol/privacy-pools)
 - [Telepathy (SuccinctLabs)](https://github.com/succinctlabs/telepathy-circuits)
+- [zkShield](https://github.com/bankisan/zkShield)
 
 ## Talks & Workshops
 
