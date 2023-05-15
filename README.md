@@ -51,6 +51,7 @@ A curated list of awesome resources for learning and programming with [Circom](h
 - [privacy pools](https://github.com/ameensol/privacy-pools)
 - [Telepathy (SuccinctLabs)](https://github.com/succinctlabs/telepathy-circuits)
 - [zkShield](https://github.com/bankisan/zkShield)
+- [zk-p2p-on ramp](https://github.com/0xSachinK/zk-p2p-onramp/tree/main)
 
 ## Talks & Workshops
 
